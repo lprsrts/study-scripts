@@ -1,21 +1,16 @@
 """
-Script Name: [Descriptive Name]
-Subject: [Physics/Mathematics/Statistics/etc.]
-Topic: [Specific subtopic]
-Course: [Course code/name if applicable]
+[Script Name]
+
+Subject: [Physics/Mathematics/Statistics]
+Topic: [Specific topic]
+Course: [Course code] (optional)
 Date: [YYYY-MM-DD]
 
 Description:
-[Brief description of what this script does, what concept it demonstrates,
-or what problem it solves]
-
-Theory/Background:
-[Optional: Key equations, concepts, or references]
+[What this script does]
 
 Output:
-[Description of generated plots/files]
-
-Author: [Your name]
+[Files/plots generated]
 """
 
 import numpy as np
